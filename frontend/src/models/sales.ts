@@ -5,5 +5,5 @@ export type Sale = {
     visited: number;
     deals: number;
     amount: number;
-    date: String;
+    date: Date;
 }
